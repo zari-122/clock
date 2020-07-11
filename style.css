@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-image: url(https://st4.depositphotos.com/3367263/25730/v/600/depositphotos_257306206-stock-video-digitally-generated-silver-stopwatch-counting.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+}
+h1{
+    margin-top: 80px;
+    margin-left: 7px;
+    color: white;
+    display: inline-block;
+    /* width: 100px; */
+    /* background-color: #fff; */
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    font-weight: 300;
+}
+.heading{
+    color: white;
+    display: inline-block;
+    width: 500px;
+    /* background-color: #fff; */
+    height: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: oblique; 
+    text-shadow: gray 3px 3px 0px;  
+}
+button{
+    background-color: white !important;
+    margin-top: 60px;
+    color: darkblue !important;
+    box-shadow: gray 3px 3px 0px !important ;
+    width: 80px;
+    height: 30px;
+    margin-left: 7px;
+} 
